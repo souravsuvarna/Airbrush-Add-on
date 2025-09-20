@@ -1,4 +1,4 @@
-# [![icon48.png](https://i.postimg.cc/QNpwgBD8/icon48.png)](https://postimg.cc/4nxWsxnq)AirBrush Add-on
+# [![icon48.png](https://i.postimg.cc/QNpwgBD8/icon48.png)](https://postimg.cc/4nxWsxnq) AirBrush Add-on
 
 **AirBrush Add-on** is a Chrome extension that gives you **unlimited access** to AirBrush. Use AirBrush web tools freely without daily limits. Simple, easy-to-use, and designed to boost your editing workflow.
 
@@ -14,9 +14,8 @@
 
    ```bash
    git clone https://github.com/souravsuvarna/Airbrush-Add-on.git
-   Open Chrome and go to **chrome://extensions/**
-
    ```
+   Open Chrome and go to **chrome://extensions/**
 
 2. Enable Developer mode (toggle in the top right)
 
